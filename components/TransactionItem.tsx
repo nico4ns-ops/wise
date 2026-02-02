@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Transaction, TransactionDirection, TransactionStatus } from '../types';
-import { ArrowUpRight, ArrowDownLeft, ShoppingBag, Wallet, Clock, XCircle, CheckCircle2 } from 'lucide-react';
+import { ArrowUpRight, ArrowDownLeft, ShoppingBag, Clock } from 'lucide-react';
 
 interface TransactionItemProps {
   transaction: Transaction;

@@ -4,14 +4,14 @@ export const INITIAL_ACCOUNTS: Account[] = [
   {
     id: '1',
     currency: 'EUR',
-    balance: 232.53,
+    balance: 22456.82,
     flag: '🇪🇺',
     accountNumber: '.. 64818'
   },
   {
     id: '2',
     currency: 'USD',
-    balance: 1450.00,
+    balance: 0,
     flag: '🇺🇸',
     accountNumber: '.. 74161'
   },
@@ -25,7 +25,7 @@ export const INITIAL_ACCOUNTS: Account[] = [
   {
     id: '4',
     currency: 'THB',
-    balance: 12086.34,
+    balance: 0,
     flag: '🇹🇭',
     accountNumber: '.. 11234'
   }
