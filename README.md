@@ -1,4 +1,4 @@
-# FinSim - Hyper-Realistic Banking Simulator
+# Wise App
 
 A pixel-perfect, fully editable banking interface simulator designed for content creation and mockups. Built with React and TypeScript.
 
